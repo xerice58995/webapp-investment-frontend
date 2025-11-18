@@ -1,6 +1,6 @@
-# API Documentation
+# Function Update
 
-- [User API](user.md)
-- [Asset API](asset.md)
-- [Portfolio API](portfolio.md)
-- [Portfolio stimulation](stimulation.md)
+## Compromised feature without login
+- Floating Ads Window
+- Log in reminder for extra features
+- Assets limit(<=3)
